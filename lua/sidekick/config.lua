@@ -111,6 +111,7 @@ local defaults = {
       copilot  = {},
       crush    = {},
       cursor   = {},
+      fx       = {},
       gemini   = {},
       grok     = {},
       omp      = {},
