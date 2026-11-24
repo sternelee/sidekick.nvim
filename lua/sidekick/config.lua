@@ -113,6 +113,7 @@ local defaults = {
       cursor   = {},
       gemini   = {},
       grok     = {},
+      omp      = {},
       opencode = {},
       pi       = {},
       ["pi-bolt"] = {},
