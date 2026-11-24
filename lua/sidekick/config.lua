@@ -115,6 +115,7 @@ local defaults = {
       grok     = {},
       opencode = {},
       pi       = {},
+      ["pi-bolt"] = {},
       qwen     = {},
     },
     --- Add custom context. See `lua/sidekick/context/init.lua`
